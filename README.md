@@ -1,6 +1,6 @@
 # Algorithms1
 
-My implementation of 50 several algorithms and data structures with C.<br>
+My implementation of several(50) algorithms and data structures with C.<br>
 This C file Contains Implementation for:<br>
 -Fibonnaci Sequence  Iterative and Recursive function.<br>
 -Calculating Factorial of N Iterative and Recursive function.<br>
