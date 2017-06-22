@@ -1,1 +1,54 @@
 # Algorithms1
+
+My implementation of 50 several algorithms and data structures with C.
+This C file Contains Implementation for:
+-Fibonnaci Sequence  Iterative and Recursive function.
+-Calculating Factorial of N Iterative and Recursive function.
+-Obtaining all digits of a number.
+-Binary Search in a sorted array; Iterative and Recursive function.
+-Naive Search in O(n).
+-Greatest Common Divisor Iterative and Recursive function.
+-Fast Exponentiation Iterative and Recursive function.
+-Normal Exponentiation Iterative and Recursive function.
+-Quick Sort (and finding Pivot).
+-Selection Sort.
+-Finding maximum value in array.
+-Swap 2 elements in array.
+-Merge Sort.
+-Bubble Sort.
+-Insertion Sort.
+-Sturcture of Linked list,Stack,Queue.
+-Create a stack.
+-is Stack Empty.
+-Push Stack.
+-Pop Stack.
+-Size of Stack.
+-Print Stack.
+-Create a Queue.
+-Enqueue.
+-Dequeue.
+-is Queue Full.
+-is Queue Empty.
+-Print Queue.
+-Print Linked List.
+-Size of List.
+-is List Empty.
+-Insert Node at the head of List.
+-Insert Node at the tail of list.
+-Insert Node at Position i.
+-Index of element in list.
+-Value of Index in List.
+-Delete Head of List.
+-Delete Tail of List.
+-Delete First Element with value x.
+-Delete by Index.
+-Delete all instances of value.
+-Number of instances of value.
+-Delete Duplicatas in list Iterative and Recursive function.
+-Concatenate two Lists.
+-Compare two Lists Iterative and Recursive function.
+-is List Sorted Iterative and Recursive function.
+-Merge two sorted lists.
+-Reverse a list.
+-if list contains only ones.
+-Sort Linked List (selection).
