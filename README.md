@@ -1,54 +1,54 @@
 # Algorithms1
 
-My implementation of 50 several algorithms and data structures with C.
-This C file Contains Implementation for:
--Fibonnaci Sequence  Iterative and Recursive function.
--Calculating Factorial of N Iterative and Recursive function.
--Obtaining all digits of a number.
--Binary Search in a sorted array; Iterative and Recursive function.
--Naive Search in O(n).
--Greatest Common Divisor Iterative and Recursive function.
--Fast Exponentiation Iterative and Recursive function.
--Normal Exponentiation Iterative and Recursive function.
--Quick Sort (and finding Pivot).
--Selection Sort.
--Finding maximum value in array.
--Swap 2 elements in array.
--Merge Sort.
--Bubble Sort.
--Insertion Sort.
--Sturcture of Linked list,Stack,Queue.
--Create a stack.
--is Stack Empty.
--Push Stack.
--Pop Stack.
--Size of Stack.
--Print Stack.
--Create a Queue.
--Enqueue.
--Dequeue.
--is Queue Full.
--is Queue Empty.
--Print Queue.
--Print Linked List.
--Size of List.
--is List Empty.
--Insert Node at the head of List.
--Insert Node at the tail of list.
--Insert Node at Position i.
--Index of element in list.
--Value of Index in List.
--Delete Head of List.
--Delete Tail of List.
--Delete First Element with value x.
--Delete by Index.
--Delete all instances of value.
--Number of instances of value.
--Delete Duplicatas in list Iterative and Recursive function.
--Concatenate two Lists.
--Compare two Lists Iterative and Recursive function.
--is List Sorted Iterative and Recursive function.
--Merge two sorted lists.
--Reverse a list.
--if list contains only ones.
--Sort Linked List (selection).
+My implementation of 50 several algorithms and data structures with C.<br>
+This C file Contains Implementation for:<br>
+-Fibonnaci Sequence  Iterative and Recursive function.<br>
+-Calculating Factorial of N Iterative and Recursive function.<br>
+-Obtaining all digits of a number.<br>
+-Binary Search in a sorted array; Iterative and Recursive function.<br>
+-Naive Search in O(n).<br>
+-Greatest Common Divisor Iterative and Recursive function.<br>
+-Fast Exponentiation Iterative and Recursive function.<br>
+-Normal Exponentiation Iterative and Recursive function.<br>
+-Quick Sort (and finding Pivot).<br>
+-Selection Sort.<br>
+-Finding maximum value in array.<br>
+-Swap 2 elements in array.<br>
+-Merge Sort.<br>
+-Bubble Sort.<br>
+-Insertion Sort.<br>
+-Sturcture of Linked list,Stack,Queue.<br>
+-Create a stack.<br>
+-is Stack Empty.<br>
+-Push Stack.<br>
+-Pop Stack.<br>
+-Size of Stack.<br>
+-Print Stack.<br>
+-Create a Queue.<br>
+-Enqueue.<br>
+-Dequeue.<br>
+-is Queue Full.<br>
+-is Queue Empty.<br>
+-Print Queue.<br>
+-Print Linked List.<br>
+-Size of List.<br>
+-is List Empty.<br>
+-Insert Node at the head of List.<br>
+-Insert Node at the tail of list.<br>
+-Insert Node at Position i.<br>
+-Index of element in list.<br>
+-Value of Index in List.<br>
+-Delete Head of List.<br>
+-Delete Tail of List.<br>
+-Delete First Element with value x.<br>
+-Delete by Index.<br>
+-Delete all instances of value.<br>
+-Number of instances of value.<br>
+-Delete Duplicatas in list Iterative and Recursive function.<br>
+-Concatenate two Lists.<br>
+-Compare two Lists Iterative and Recursive function.<br>
+-is List Sorted Iterative and Recursive function.<br>
+-Merge two sorted lists.<br>
+-Reverse a list.<br>
+-if list contains only ones.<br>
+-Sort Linked List (selection).<br>
